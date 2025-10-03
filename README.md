@@ -6,8 +6,11 @@ Users can filter by city, year, and crime type to explore trends, victim demogra
 ## 📂 Project Structure
 
 app.py # Streamlit app code
+
 Modified_Crime_Dataset_India.xlsx # Dataset
+
 requirements.txt # Dependencies
+
 README.md # Documentation
 
 
